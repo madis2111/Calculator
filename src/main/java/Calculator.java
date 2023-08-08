@@ -15,7 +15,7 @@ public class Calculator {
         } else {
             System.out.println("Ошибка! На 0 делить нельзя.");
             return Integer.MIN_VALUE;
-//            throw new ArithmeticException("Ошибка! На 0 делить нельзя.");
+            //throw new ArithmeticException("Ошибка! На 0 делить нельзя.");
         }
     };
 
